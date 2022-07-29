@@ -1,4 +1,4 @@
-// Stage 3/5: Expand and park
+// Stage 4/5: Size matters
 // Change it to play with data class, but not really using it yet
 package parking
 
